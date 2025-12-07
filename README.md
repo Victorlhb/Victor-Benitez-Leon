@@ -19,11 +19,11 @@ Hi! I'm **Victor Benitez**, a software developer from Spain.
 ### ☄️ Lenguajes y tecnologías
 
 <p align="center" style="flex-wrap: wrap;">
+    <img title="Python" height="30" src="./images/python.webp" alt="Python">
+    <img title="Java" height="30" src="./images/java.png" alt="Java">
 
-  <code><img title="Python" height="30" src="./images/python.webp" alt="Python"></code>
-  <code><img title="Java" height="30" src="./images/java.png" alt="Java"></code>
+
 </p>
-
 
 
 ### ⚡ Stats
