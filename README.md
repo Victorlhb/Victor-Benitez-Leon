@@ -39,3 +39,16 @@ Hi! I'm **Victor Benitez**, a software developer from Spain.
 </p>
 
 ### ⚡ Stats
+* **Java**: Máximo Nivel
+    <img src="https://custom-icon-badges.demolab.com/static/v1?style=for-the-badge&message=95%25&color=007396&labelColor=000000&label=Java&logo=java" alt="Java skill bar"/>
+    <img src="https://img.shields.io/badge/____________________-4B088A.svg?style=flat&logoColor=000000" alt="Full bar for Java"/>
+
+* **Python**: Nivel Intermedio
+    <img src="https://custom-icon-badges.demolab.com/static/v1?style=for-the-badge&message=60%25&color=3776AB&labelColor=000000&label=Python&logo=python" alt="Python skill bar"/>
+    <img src="https://img.shields.io/badge/____________-BDB76B.svg?style=flat&logoColor=000000" alt="Medium bar for Python"/>
+
+* **SQL y Bases de Datos**: Nivel Sólido
+    <img src="https://custom-icon-badges.demolab.com/static/v1?style=for-the-badge&message=75%25&color=4479A1&labelColor=000000&label=SQL&logo=mysql" alt="SQL skill bar"/>
+    <img src="https://img.shields.io/badge/_______________-4285F4.svg?style=flat&logoColor=000000" alt="Solid bar for SQL"/>
+
+---
