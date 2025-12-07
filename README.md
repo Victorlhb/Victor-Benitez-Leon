@@ -10,12 +10,10 @@
 
 Hi! I'm **Victor Benitez**, a software developer from Spain.
 
-### 🚀 Studies, Research & Experience
+### 🚀 Educación y Experiencia
 
-- 🎓 Graduated in **Mathematics** and **Computer Science** at the University of Granada.
-- 🔬 Completed MSc degrees in both **Computer Science** and **Artificial Intelligence**.
-- 🔭 Conducted research at the University of Granada (both as a Bachelor's and Master's student).
-- 👨🏻‍💻 Currently working as a **data scientist and IT specialist** in a biotech company.
+- 📚 Estudié el **Grado Superior de Desarrollo de Aplicaciones Multiplataforma (DAM)**.
+- Apasionado por la **programación** y el **mundo de la informática**.
 - 💻 Passionate about **problem-solving**, **clean code**, and **real-world applications** of data science.
 
 
