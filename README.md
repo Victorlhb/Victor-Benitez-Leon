@@ -20,9 +20,9 @@ Hi! I'm **Victor Benitez**, a software developer from Spain.
 
 <p align="center" style="flex-wrap: wrap;">
 
-  <code><img title="Python" height="30" src="./images/python.png" alt="Python"></code>
-  <code><img title="Java" height="30" src="./images/java-original.svg" alt="Java"></code>
-  <code><img title="JavaScript" height="30" src="./images/js.svg" alt="JavaScript"></code>
+  <code><img title="Python" height="30" src="./images/python.webp" alt="Python"></code>
+  <code><img title="Java" height="30" src="./images/java.png" alt="Java"></code>
+  <code><img title="JavaScript" height="30" src="./images/javaScript.webp" alt="JavaScript"></code>
 </p>
 
 
