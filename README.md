@@ -21,11 +21,11 @@ He realizado prácticas en empresa en entornos reales, combinando desarrollo, au
 
 ## Nivel técnico
 <div align="center">
-  <img src="https://progress-bar.xyz/70/?title=Java&width=650&color=0F8BFF&suffix=%2070%25%20%7C%20Intermedio" alt="Java nivel tecnico"/>
-  <img src="https://progress-bar.xyz/72/?title=React%20%7C%20Next.js&width=650&color=06B6D4&suffix=%2072%25%20%7C%20Practicas%20DAM" alt="React Next nivel tecnico"/>
-  <img src="https://progress-bar.xyz/68/?title=SQL%20%7C%20Supabase&width=650&color=1D4ED8&suffix=%2068%25%20%7C%20Uso%20real" alt="SQL nivel tecnico"/>
-  <img src="https://progress-bar.xyz/78/?title=Power%20Automate%20%7C%20SharePoint&width=650&color=2563EB&suffix=%2078%25%20%7C%20Automatizacion%20real" alt="Power Platform nivel tecnico"/>
-  <img src="https://progress-bar.xyz/70/?title=M365%20Admin%20%7C%20Soporte&width=650&color=0A66C2&suffix=%2070%25%20%7C%20Entorno%20empresa" alt="M365 soporte nivel tecnico"/>
+  <img src="https://progress-bar.xyz/70/?title=Java&width=650&color=0F8BFF&suffix=%20%7C%20Intermedio" alt="Java nivel tecnico"/>
+  <img src="https://progress-bar.xyz/72/?title=React%20%7C%20Next.js&width=650&color=06B6D4&suffix=%20%7C%20Practicas%20DAM" alt="React Next nivel tecnico"/>
+  <img src="https://progress-bar.xyz/68/?title=SQL%20%7C%20Supabase&width=650&color=1D4ED8&suffix=%20%7C%20Uso%20real" alt="SQL nivel tecnico"/>
+  <img src="https://progress-bar.xyz/78/?title=Power%20Automate%20%7C%20SharePoint&width=650&color=2563EB&suffix=%20%7C%20Automatizacion%20real" alt="Power Platform nivel tecnico"/>
+  <img src="https://progress-bar.xyz/70/?title=M365%20Admin%20%7C%20Soporte&width=650&color=0A66C2&suffix=%20%7C%20Entorno%20empresa" alt="M365 soporte nivel tecnico"/>
 </div>
 
 ## Experiencia en practicas del sector
