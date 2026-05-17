@@ -25,19 +25,11 @@ Me enfoco en crear soluciones mantenibles, con buenas prácticas, código limpio
 </p>
 
 ## Nivel técnico
-- **Java:** Avanzado
-- **Python:** Intermedio
-- **SQL y Bases de datos:** Sólido
-- **Buenas prácticas:** Clean Code, testing y estructura mantenible
-
-## GitHub Stats
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Victorlhb&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victorlhb&layout=compact&theme=transparent&hide_border=true" alt="top langs"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Victorlhb&theme=transparent&hide_border=true" alt="streak"/>
+  <img src="https://progress-bar.xyz/90/?title=Java&width=650&color=0F8BFF&suffix=%20Avanzado" alt="Java nivel tecnico"/>
+  <img src="https://progress-bar.xyz/75/?title=Python&width=650&color=06B6D4&suffix=%20Intermedio%20alto" alt="Python nivel tecnico"/>
+  <img src="https://progress-bar.xyz/80/?title=SQL%20%7C%20BBDD&width=650&color=1D4ED8&suffix=%20Solido" alt="SQL nivel tecnico"/>
+  <img src="https://progress-bar.xyz/85/?title=Clean%20Code%20%7C%20Testing&width=650&color=2563EB&suffix=%20Buenas%20practicas" alt="Buenas practicas nivel tecnico"/>
 </div>
 
 ## Objetivo profesional
