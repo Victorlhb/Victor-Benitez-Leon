@@ -32,12 +32,12 @@ Me enfoco en crear soluciones mantenibles, con buenas prácticas, código limpio
 
 ## GitHub Stats
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Victor-Benitez-Leon&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Benitez-Leon&layout=compact&theme=transparent&hide_border=true" alt="top langs"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Victorlhb&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victorlhb&layout=compact&theme=transparent&hide_border=true" alt="top langs"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Victor-Benitez-Leon&theme=transparent&hide_border=true" alt="streak"/>
+  <img src="https://streak-stats.demolab.com?user=Victorlhb&theme=transparent&hide_border=true" alt="streak"/>
 </div>
 
 ## Objetivo profesional
