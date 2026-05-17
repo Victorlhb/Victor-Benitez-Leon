@@ -12,8 +12,8 @@
 </div>
 
 ## Sobre mí
-Desarrollador de software en España con formación en **Desarrollo de Aplicaciones Multiplataforma (DAM)**.
-Me enfoco en crear soluciones mantenibles, con buenas prácticas, código limpio y orientación a resultados.
+Recién titulado en **2º de DAM (Desarrollo de Aplicaciones Multiplataforma)** en España.
+Estoy construyendo mi perfil como desarrollador junior, con foco en bases sólidas, buenas prácticas y aprendizaje continuo.
 
 ## Stack principal
 <p align="left">
@@ -26,14 +26,24 @@ Me enfoco en crear soluciones mantenibles, con buenas prácticas, código limpio
 
 ## Nivel técnico
 <div align="center">
-  <img src="https://progress-bar.xyz/90/?title=Java&width=650&color=0F8BFF&suffix=%20Avanzado" alt="Java nivel tecnico"/>
-  <img src="https://progress-bar.xyz/75/?title=Python&width=650&color=06B6D4&suffix=%20Intermedio%20alto" alt="Python nivel tecnico"/>
-  <img src="https://progress-bar.xyz/80/?title=SQL%20%7C%20BBDD&width=650&color=1D4ED8&suffix=%20Solido" alt="SQL nivel tecnico"/>
-  <img src="https://progress-bar.xyz/85/?title=Clean%20Code%20%7C%20Testing&width=650&color=2563EB&suffix=%20Buenas%20practicas" alt="Buenas practicas nivel tecnico"/>
+  <img src="https://progress-bar.xyz/70/?title=Java&width=650&color=0F8BFF&suffix=%20Intermedio" alt="Java nivel tecnico"/>
+  <img src="https://progress-bar.xyz/60/?title=Python&width=650&color=06B6D4&suffix=%20Intermedio%20basico" alt="Python nivel tecnico"/>
+  <img src="https://progress-bar.xyz/65/?title=SQL%20%7C%20BBDD&width=650&color=1D4ED8&suffix=%20Intermedio" alt="SQL nivel tecnico"/>
+  <img src="https://progress-bar.xyz/55/?title=Testing%20%7C%20Clean%20Code&width=650&color=2563EB&suffix=%20En%20progreso" alt="Buenas practicas nivel tecnico"/>
 </div>
 
+## Punto actual
+- Sin experiencia laboral en empresa todavia.
+- Base academica reciente de DAM.
+- Disponibilidad para **primer puesto junior** o practicas.
+
+## Actualmente
+- Mejorando logica, POO y estructura de proyectos.
+- Reforzando SQL y modelado de bases de datos.
+- Practicando Git y flujo de trabajo con repositorios.
+
 ## Objetivo profesional
-Aportar valor en proyectos reales construyendo software robusto, claro y preparado para crecer.
+Conseguir mi primera oportunidad como desarrollador junior y crecer en proyectos reales con mentoria, disciplina y mejora constante.
 
 ---
 
