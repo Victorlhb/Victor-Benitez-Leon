@@ -1,7 +1,5 @@
 ﻿<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:2563eb&height=180&section=header&text=Víctor%20Benítez%20León&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Desarrollador%20Junior%20DAM%20%7C%20Web%20%C2%B7%20Automatización%20%C2%B7%20Microsoft%20365%20%C2%B7%20Sistemas&descSize=16&descAlignY=58" />
-
 <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=850&lines=Desarrollo+web+orientado+a+empresa;Automatización+de+procesos+con+Microsoft+365;SharePoint%2C+Power+Automate+y+soporte+técnico;Perfil+junior+DAM+con+experiencia+práctica" />
 
 <br>
