@@ -164,21 +164,6 @@ Formación complementaria
 JavaScript · 80 horas
 Ciberseguridad · 40 horas
 ```
-
----
-
-## Estadísticas de GitHub
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Victorlhb&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&icon_color=38bdf8&text_color=cbd5e1" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victorlhb&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=cbd5e1" />
-
-</div>
-
----
-
 ## Contacto
 
 <div align="center">
