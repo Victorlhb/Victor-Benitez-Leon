@@ -8,10 +8,6 @@
   <img src="https://img.shields.io/badge/Email-victorbenitezleon%40gmail.com-2563eb?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="https://github.com/Victorlhb">
-  <img src="https://img.shields.io/badge/GitHub-Victorlhb-111827?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
 <img src="https://img.shields.io/badge/Ubicación-Granada%2C%20España-16a34a?style=for-the-badge&logo=googlemaps&logoColor=white" />
 
 </div>
