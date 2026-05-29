@@ -1,14 +1,24 @@
 ﻿<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=850&lines=Desarrollo+web+orientado+a+empresa;Automatización+de+procesos+con+Microsoft+365;SharePoint%2C+Power+Automate+y+soporte+técnico;Perfil+junior+DAM+con+experiencia+práctica" />
+# Víctor Benítez León
 
-<br>
+### Desarrollador Junior DAM
+
+#### Desarrollo Web · Automatización · Microsoft 365 · SharePoint · Sistemas
+
+<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=850&lines=Desarrollo+web+orientado+a+empresa;Automatizacion+de+procesos+con+Microsoft+365;SharePoint%2C+Power+Automate+y+soporte+tecnico;Perfil+junior+DAM+con+experiencia+practica" />
+
+<br><br>
 
 <a href="mailto:victorbenitezleon@gmail.com">
   <img src="https://img.shields.io/badge/Email-victorbenitezleon%40gmail.com-2563eb?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<img src="https://img.shields.io/badge/Ubicación-Granada%2C%20España-16a34a?style=for-the-badge&logo=googlemaps&logoColor=white" />
+<a href="https://github.com/Victorlhb">
+  <img src="https://img.shields.io/badge/GitHub-Victorlhb-111827?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<img src="https://img.shields.io/badge/Granada%2C%20España-16a34a?style=for-the-badge&logo=googlemaps&logoColor=white" />
 
 </div>
 
@@ -52,11 +62,15 @@ Desarrollador Junior DAM
 <img src="https://img.shields.io/badge/HTML5-1f2937?style=for-the-badge&logo=html5&logoColor=E34F26" />
 <img src="https://img.shields.io/badge/CSS3-1f2937?style=for-the-badge&logo=css3&logoColor=1572B6" />
 
+<br><br>
+
 ### Bases de datos y backend
 
 <img src="https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
 <img src="https://img.shields.io/badge/Supabase-111827?style=for-the-badge&logo=supabase&logoColor=3ECF8E" />
+
+<br><br>
 
 ### Empresa, automatización y sistemas
 
@@ -119,6 +133,7 @@ Desarrollo y despliegue de herramientas web orientadas a procesos internos de em
 
 </td>
 </tr>
+
 <tr>
 <td width="50%">
 
@@ -158,6 +173,21 @@ Formación complementaria
 JavaScript · 80 horas
 Ciberseguridad · 40 horas
 ```
+
+---
+
+## Estadísticas de GitHub
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Victorlhb&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&icon_color=38bdf8&text_color=cbd5e1" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victorlhb&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=cbd5e1" />
+
+</div>
+
+---
+
 ## Contacto
 
 <div align="center">
@@ -174,6 +204,18 @@ Ciberseguridad · 40 horas
   <img src="https://img.shields.io/badge/Ver_GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
+<!-- Cuando tengas tu portfolio publicado, descomenta esta parte:
+<a href="https://Victorlhb.github.io">
+  <img src="https://img.shields.io/badge/Portfolio_web-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+-->
+
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:1e293b,100:0f172a&height=120&section=footer" />
+---
+
+<div align="center">
+
+Gracias por visitar mi perfil.
+
+</div>
