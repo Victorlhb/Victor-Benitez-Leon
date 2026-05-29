@@ -6,7 +6,7 @@
 
 #### Desarrollo Web · Automatización · Microsoft 365 · SharePoint · Sistemas
 
-<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=850&lines=Desarrollo+web+orientado+a+empresa;Automatizacion+de+procesos+con+Microsoft+365;SharePoint%2C+Power+Automate+y+soporte+tecnico;Perfil+junior+DAM+con+experiencia+practica" />
+<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=850&lines=Desarrollo+Multiplataforma;Automatizacion+de+procesos+con+Microsoft+365;SharePoint%2C+Power+Automate+y+soporte+tecnico;Perfil+junior+DAM+con+experiencia+practica" />
 
 <br><br>
 
